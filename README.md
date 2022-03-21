@@ -25,5 +25,8 @@ This code is for test.
 >~취소~
 >### image
 >![](https://blog.kakaocdn.net/dn/5E6sf/btqyzc74HTx/DDHu8Zfat20pQvDateL9GK/img.jpg "동아대학교 로고")
->### 표
->
+>### 표(Table)
+>통화명|매매기준율|미화환산율
+>|:---:|---:|---:|
+>|USD|1,215.50|1.000|
+>EUR|1,342.28|1.104
