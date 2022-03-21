@@ -19,5 +19,11 @@ This code is for test.
 >
 >***기울어짐***
 >### link
->[Google](https://google.com)   
+>[Google](https://google.com "구글")   
 >Google: <https://google.com>
+>### 취소선
+>~취소~
+>### image
+>![](https://blog.kakaocdn.net/dn/5E6sf/btqyzc74HTx/DDHu8Zfat20pQvDateL9GK/img.jpg "동아대학교 로고")
+>### 표
+>
