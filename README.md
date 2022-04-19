@@ -3,7 +3,8 @@
 This code is for test.
 
 ## test
->
+>### 강조
+>**강조됨**
 >### code
 >
 >```C++
@@ -17,7 +18,7 @@ This code is for test.
 >
 >### Italic
 >
->***기울어짐***
+>*이텔릭체*
 >### link
 >[Google](https://google.com "구글")   
 >Google: <https://google.com>
